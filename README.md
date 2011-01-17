@@ -4,8 +4,8 @@ A lightweight programmer's text editor right inside of Chrome with vim keybindin
 
 Resources
 ---------
-Report issues here: https://github.com/kenotron/sourcekit/issues
-Follow me: http://twitter.com/kenneth_chau
+Report issues here: https://github.com/i3enhamin/vim4chrome/issues
+Follow me: http://twitter.com/i3enhamin
 
 Details
 -------
